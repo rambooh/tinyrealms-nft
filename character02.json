@@ -1,0 +1,16 @@
+{
+  "name": "Tiny Realms Character — Blue",
+  "symbol": "TRC",
+  "description": "A Tiny Realms character pass. Enter the realm at tinyrealms.xyz.",
+  "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/character02.png",
+  "external_url": "https://tinyrealms.xyz",
+  "attributes": [
+    { "trait_type": "Type", "value": "Character Pass" },
+    { "trait_type": "Color", "value": "Blue" },
+    { "trait_type": "Skin", "value": 1 }
+  ],
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/character02.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
