@@ -1,7 +1,7 @@
 {
-  "name": "Tiny Realms Characters",
+  "name": "Tiny Pawns",
   "symbol": "TRC",
-  "description": "Character passes for Tiny Realms — a persistent browser-based multiplayer action RPG. Holding one lets you log in with your on-chain identity.",
+  "description": "Pawn passes for Tiny Realms — a persistent browser-based multiplayer action RPG. Holding one lets you log in with your on-chain identity.",
   "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/collection.webp",
   "external_url": "https://tinyrealms.xyz",
   "properties": {

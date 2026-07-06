@@ -1,13 +1,13 @@
 {
-  "name": "Tiny Realms Character — Purple",
+  "name": "Tiny Pawn — Yellow",
   "symbol": "TRC",
   "description": "A Tiny Realms character pass. Enter the realm at tinyrealms.xyz.",
   "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/character03.png",
   "external_url": "https://tinyrealms.xyz",
   "attributes": [
     { "trait_type": "Type", "value": "Character Pass" },
-    { "trait_type": "Color", "value": "Purple" },
-    { "trait_type": "Skin", "value": 2 }
+    { "trait_type": "Color", "value": "Yellow" },
+    { "trait_type": "Skin", "value": 4 }
   ],
   "properties": {
     "files": [{ "uri": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/character03.png", "type": "image/png" }],
