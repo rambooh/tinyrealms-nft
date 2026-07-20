@@ -1,0 +1,11 @@
+{
+  "name": "Tiny Realms Coin",
+  "symbol": "COIN",
+  "description": "The in-game currency of Tiny Realms. Cash in and out at tinyrealms.xyz.",
+  "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/Icon_03.png",
+  "external_url": "https://tinyrealms.xyz",
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/Icon_03.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
