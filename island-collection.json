@@ -1,0 +1,16 @@
+{
+  "name": "Tiny Realms Islands",
+  "symbol": "TRI",
+  "description": "Island deeds for Tiny Realms — each grants ownership of a private, editable home realm you alone can build with the in-game editor. Trade them on-chain.",
+  "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/island-collection.png",
+  "external_url": "https://tinyrealms.xyz",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/island-collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

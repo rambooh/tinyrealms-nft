@@ -1,0 +1,26 @@
+{
+  "name": "Whitecliff Key",
+  "symbol": "TRI",
+  "description": "A Tiny Realms island deed — hold it to own and build Whitecliff Key, a private editable home realm, at tinyrealms.xyz.",
+  "image": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/island.png",
+  "external_url": "https://tinyrealms.xyz",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Island Deed"
+    },
+    {
+      "trait_type": "Realm",
+      "value": "island-093"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/rambooh/tinyrealms-nft/main/island.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
